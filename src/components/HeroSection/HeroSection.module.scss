@@ -59,7 +59,10 @@
   letter-spacing: -0.03125rem;
   font-weight: 700;
   position: relative;
-  height: 14.625rem;
+  //height: 14.625rem;
+  background-color: rgba(229, 229, 229, 1); // fond noir semi-transparent
+  padding: 1rem;
+  border-radius: 8px;
 }
 
 .description {
