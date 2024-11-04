@@ -17,10 +17,14 @@ export default function ArtistProfile() {
         </div>
         <div className={styles.images}>
           <div className={styles.artistArtwork}>
-            <Image src="/img/artistProfile/c_senechal_artwork.jpg" alt="Œuvre de Catherine Sénéchal" width={200} height={200} layout="responsive" />
+            <Image src="/img/artistProfile/c_senechal_artwork.jpg" 
+              alt="Œuvre emblématique de Catherine Sénéchal - Art contemporain abstrait"  
+              width={200} height={200} layout="responsive" />
           </div>
           <div className={styles.artistPhoto}>
-            <Image src="/img/artistProfile/c_senechal.jpg" alt="Catherine Sénéchal" width={200} height={200} layout="responsive" />
+            <Image src="/img/artistProfile/c_senechal.jpg" 
+              alt="Portrait de l'artiste Catherine Sénéchal dans son atelier"  
+              width={200} height={200} layout="responsive" />
           </div>
         </div>
       </div>

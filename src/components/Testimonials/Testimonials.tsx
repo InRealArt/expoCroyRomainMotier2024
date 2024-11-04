@@ -21,7 +21,9 @@ const Testimonials = () => {
     </div>
     <div className={styles.containerTestimonials}>
       <div className={styles.containerTestimonial1}>
-        <Image src="/img/testimonials/fboucheix.jpg" alt="François Boucheix" width={150} height={150} className={styles.testimonialImage} />
+        <Image src="/img/testimonials/fboucheix.jpg" 
+          alt="François Boucheix - Artiste contemporain TOP 4 I-CAC - Témoignage sur InRealArt" 
+          width={150} height={150} className={styles.testimonialImage} />
         <div className={styles.wrapperText2}>
           <div className={styles.title2}>
             <div className={styles.artist1}>François Boucheix</div>
@@ -41,7 +43,9 @@ const Testimonials = () => {
         </div>
       </div>
       <div className={styles.containerTestimonial2}>
-        <Image src="/img/testimonials/leloluce.jpg" alt="Leloluce" width={150} height={150} className={styles.testimonialImage}/>
+        <Image src="/img/testimonials/leloluce.jpg" 
+          alt="Leloluce - Artiste contemporain TOP 7 I-CAC - Témoignage sur InRealArt"
+          width={150} height={150} className={styles.testimonialImage}/>
         <div className={styles.wrapperText3}>
           <div className={styles.title2}>
             <div className={styles.artist2}>Leloluce</div>
