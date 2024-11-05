@@ -25,7 +25,7 @@ const geistMono = localFont({
 
 export const metadata: Metadata = {
   title: "InRealArt",
-  description: "Salon Automne 2024",
+  description: "Exposition Croy-RomainMotier 2024",
 };
 
 export default async function RootLayout({
