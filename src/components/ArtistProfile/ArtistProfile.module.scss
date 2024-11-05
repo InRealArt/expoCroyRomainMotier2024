@@ -51,9 +51,9 @@
     }
 
     .images {
-      flex: 1;
       display: flex;
-      gap: 20px;
+      gap: 50px;
+      justify-content: center;
       @media (max-width: 1340px) {
         margin-top: 20px;
         justify-content: space-between;

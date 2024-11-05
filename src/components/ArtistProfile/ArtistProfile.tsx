@@ -23,7 +23,7 @@ export default function ArtistProfile() {
           </div>
           <div className={styles.artistPhoto}>
             <Image src="/img/artistProfile/c_senechal.jpg" 
-              alt="Portrait de l'artiste Catherine Sénéchal dans son atelier"  
+              alt="Catherine Sénéchal - Artiste cotée - Expositions internationales - Représentée par InRealArt"  
               width={200} height={200} layout="responsive" />
           </div>
         </div>

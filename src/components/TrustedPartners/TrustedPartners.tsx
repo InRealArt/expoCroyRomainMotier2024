@@ -15,10 +15,10 @@ const TrustedPartners = () => {
       <h1 className={styles.title}>{parse(i18n[language].partners.title)}</h1>
       <div className={styles.partnersLogo}>
         <Image className={styles.partner1} src="/img/partners/leadouze.jpg" 
-          alt="Galerie A. LEADOUZE - Partenaire officiel InRealArt - Galerie d'art contemporain" 
+          alt="Galerie A. LEADOUZE - Paris - Exposition permanente d'œuvres contemporaines - Vente sur rendez-vous" 
           width={200} height={100} />
         <Image className={styles.partner2} src="/img/partners/art_thema.jpg" 
-          alt="Art Thema Gallery - Partenaire officiel InRealArt - Galerie d'art contemporain" 
+          alt="Art Thema Gallery - Bruxelles - Partenaire exclusif InRealArt - Expertise et estimation d'œuvres d'art contemporain" 
           width={150} height={150} />
       </div>
     </div>
